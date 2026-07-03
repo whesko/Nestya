@@ -1,3 +1,4 @@
+<img width="1600" height="1600" alt="1ac9c1b4-8d7b-494d-a57b-a980ae14a069-1_all_43177" src="https://github.com/user-attachments/assets/b82d8c55-f31a-494f-9913-a0e8e4189bad" />
 <h1 align="center">
   🐙🐇 Nestya
 </h1>
