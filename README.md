@@ -28,9 +28,8 @@ These files contains official terms and explanation of Nestya, including its Pri
 No worries dear!~⁠♡ If you have any questions about Nestya, or they are being more histerical than normal, please contact the server administration or me!
 
 <p align="center">
-  main: @provavelmentewhesko
-  
-  alt: @definitelywhesko
+main — <code>@provavelmentewhesko</code><br>
+alt — <code>@definitelywhesko</code>
 </p>
 
 ---
