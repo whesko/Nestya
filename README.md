@@ -18,8 +18,8 @@ These files contains official terms and explanation of Nestya, including its Pri
 
 ## દ Documentation ⁠દ
 
-- Privacy Policy‼️🐋
-- Terms of Service‼️🐋
+- [Privacy Policy🐋‼️](nestya-privacy-policy.md)
+- [Terms of Service🐋‼️](nestya-terms-of-service.md)
 
 ---
 
