@@ -1,1 +1,21 @@
-WIP :D
+# Nestya Privacy Policy
+
+**Effective Date:** February 24, 2026
+**Last Updated:** July 2, 2026
+**Version:** 1.0
+---
+<p align="center">
+This privacy policy was made with the help of #dino-dinosaur and #yourgurltessahhh__
+</p>
+
+---
+  
+Nestya is the official Discord bot developed exclusively for **Whesko's Bubbly Aquarium**, a multilingual public community created for artists, creators, fandom enthusiasts, and members from diverse creative backgrounds. Although the application is publicly registered through Discord's Developer Portal, it is not intended to operate as a general-purpose Discord bot and is exclusively maintained for the management, organization, moderation, and administration of Whesko's Bubbly Aquarium. By remaining in the community or interacting with features provided by Nestya where applicable, you acknowledge that certain information may be processed solely for the purpose of operating and maintaining the server in a safe, organized, and functional environment.
+
+Nestya only processes information that is reasonably necessary for its intended purpose. Depending on the feature being used, this may include Discord user identifiers, usernames, display names, server identifiers, channel identifiers, role identifiers, category identifiers, moderation records, join and leave events, role assignments, administrative configurations, logging information, and other technical information required for the proper functioning of the server. Such information is processed exclusively to provide moderation, automation, server configuration, permission management, logging, anti-spam protection, role management, administrative tools, and other community-related features. Nestya does not collect passwords, email addresses, payment information, IP addresses, personal files, private documents, or any other sensitive personal information, nor does it access or process the content of Discord Direct Messages. Likewise, the bot does not permanently store artwork, images, attachments, or other media shared by community members unless such storage becomes technically necessary for a feature explicitly introduced in the future.
+
+All information processed by Nestya is used exclusively for the benefit of Whesko's Bubbly Aquarium and is never processed for advertising, commercial profiling, marketing, behavioral analysis, or any unrelated purpose. Information is never sold, rented, licensed, traded, or otherwise disclosed to third parties. Data may only be disclosed when required to comply with applicable laws, valid legal requests, or Discord's Terms of Service, Developer Terms, Developer Policy, or Community Guidelines. Administrative access to information processed by Nestya is limited to the server owner and authorized members of the server administration or moderation team who require such access to perform legitimate community management responsibilities.
+
+Information is retained only for as long as reasonably necessary to operate the community and provide the services for which it was collected. Whenever information is no longer required, reasonable efforts will be made to remove or delete it. Where technically feasible, data associated with members who permanently leave Whesko's Bubbly Aquarium may also be removed from Nestya's records. While reasonable administrative and technical measures are taken to protect information processed by the bot from unauthorized access, alteration, disclosure, or destruction, no digital service can guarantee absolute security, and users acknowledge the inherent risks associated with online platforms.
+
+This Privacy Policy may be updated periodically to reflect improvements, new features, operational changes, or legal requirements affecting Nestya. Any significant modifications may be published through the official GitHub documentation repository or communicated within Whesko's Bubbly Aquarium when appropriate. Continued use of the community following the publication of an updated Privacy Policy constitutes acceptance of the revised terms. Questions, concerns, or requests relating to this Privacy Policy may be directed to the administration or moderation team of Whesko's Bubbly Privacyized through the official Discord server or the official GitHub repository maintained by Whesko.
