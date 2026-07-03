@@ -29,7 +29,12 @@ No worries dear!~⁠♡ If you have any questions about Nestya, or they are bein
 
 <p align="center">
   main: @provavelmentewhesko
+  
   alt: @definitelywhesko
 </p>
 
 ---
+
+<h2 align="center">
+farewell~
+</h2>
